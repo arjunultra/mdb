@@ -1,0 +1,8 @@
+{
+  "projectName": "mdb-starter",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "npm",
+  "hash": "317a64f2"
+}
